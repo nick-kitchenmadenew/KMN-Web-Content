@@ -135,6 +135,7 @@ Professional but approachable tone
 Include relevant schema markup recommendations
 Recommend the Top 3 Title Tags and point out which one is the best and the reasoning why
 Recommend the Top 3 Meta Descriptions and point out which one is the best and the reasoning why
-Please write one section of this content at a time and ask for feedback in each.
+/*Please write one section of this content at a time and ask for feedback in each.*/ - Commented Out
+Identify in the document the H1 H2 H3 and etc and highlight internal linking opportunities.
 Create an article after we finalize the content.
 Create an document outlining the names, local references and stories to be uploaded to the project. This will serve as a reference as we write new pages not to repeat the names and stories again. Name this document with a prefix ai-stories.
