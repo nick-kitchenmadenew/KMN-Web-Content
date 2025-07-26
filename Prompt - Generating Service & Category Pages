@@ -74,10 +74,10 @@ Page Content (write section by section):
 
 Introduction Section (200-250 words):
 
-Write in first person as a local service expert
+Write in first person as a local service expert backed by a team of highly skilled professionals
 
 Include a brief personal anecdote or customer story relevant to [city]
-
+Review all the previously used stories stored in the project knowledge, these documents start with prefix ai-stories. Make names and stories unique.
 Naturally incorporate local landmarks, neighborhoods, or events
 
 Address the main customer pain point this service solves
