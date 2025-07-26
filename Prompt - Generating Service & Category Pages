@@ -137,6 +137,7 @@ Recommend the Top 3 Title Tags and point out which one is the best and the reaso
 Recommend the Top 3 Meta Descriptions and point out which one is the best and the reasoning why
 /*Please write one section of this content at a time and ask for feedback in each.*/ - Commented Out
 Identify in the document the H1 H2 H3 and etc and highlight internal linking opportunities.
-Create an article after we finalize the content.
-Look for existing AI Stories that have already been used in past documents. The document will be prefixed with prefix ai-stories. Append append to the document outlining the names, local references and stories. This will serve as a reference as we write new pages not to repeat the names and stories again.
+Create an article after we finalize the content. Save the article in Notion.
+
+Look for existing AI Stories in Notion that have already been used in past documents. The document will be prefixed with prefix ai-stories. Append append to the document outlining the names, local references and stories. This will serve as a reference as we write new pages not to repeat the names and stories again.
 If ai-stories document does not exisit, create one.
