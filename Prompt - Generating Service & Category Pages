@@ -76,12 +76,17 @@ Introduction Section (200-250 words):
 
 Write in first person as a local service expert backed by a team of highly skilled professionals
 
-Include a brief personal anecdote or customer story relevant to [city]
 Review all the previously used stories stored in the project knowledge, these documents start with prefix ai-stories. Make names and stories unique.
-Naturally incorporate local landmarks, neighborhoods, or events
+Include a brief, authentic personal anecdote or customer story relevant to [city]
+he story should:
 
+Feature a specific local detail, landmark, neighborhood, or cultural reference unique to [CITY]
+Sound natural and relatable, not overly promotional
+Connect the local element to the business need or positive outcome
+Vary in perspective between: personal experience, customer testimonial, local observation, or community interaction
 Address the main customer pain point this service solves
-
+Use one of these story angles: [seasonal local event, neighborhood-specific challenge, local landmark reference, community tradition, regional weather/geography impact, local business district experience, cultural nuance, or municipal service connection]
+Make each story feel distinctly connected to [CITY] rather than generic. Avoid repetitive phrases or story structures."
 Include primary keyword [service / category + city]
 
 Service Details (H2 sections):
