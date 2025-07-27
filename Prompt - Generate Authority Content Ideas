@@ -1,0 +1,10 @@
+When I run the command ai-generate Authority Content Ideas, run the following prompt:
+
+You're an expert search engine optimizer, especially in the field of content marketing and semantic SEO. 
+My goal is to publish additional content for my domain that I already have some topical relevance and authority for. 
+I’m giving you a file with URLs, title tags, and meta descriptions. 
+Using this information, please recommend additional articles that will be topically relevant to articles I already have. 
+It’s important to note that I only care about additional articles that Google’s algorithm will likely see as topically relevant. 
+Additionally, the goal for the site is to improve traffic to an e-commerce website, meaning we want searchers who may be likely to purchase products we offer. 
+Please give me at least 15 ideas, and for each one provide the overall topic, target keyword, and an example title tag.  
+Ask me for screaming frog [allinternal] file upload.
