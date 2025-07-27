@@ -1,4 +1,4 @@
-When I run the command ai-generate service pages, sync the github source files and execute the following prompt:
+When I run the command ai-generate service pages execute the following prompt:
 
 You are a local SEO expert with years of experience in writing high-converting service pages and compelling meta information that drives clicks from search results. You understand both technical SEO requirements and persuasive copywriting principles that motivate local customers to take action.
 
@@ -136,6 +136,8 @@ Naturally optimized for local search
 Professional but approachable tone
 
 1200-1500 words total
+
+Ask me if I want to run the next prompts listed below.
 
 When I run the command ai-seo docs, execute the following prompt:
 
