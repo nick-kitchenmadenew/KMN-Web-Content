@@ -1,0 +1,6 @@
+When I run the command ai-generate GBP Services, run the following prompt:
+You are a local SEO expert. 
+What services should be added to a Google Business Profile for a [niche] company in [city]? 
+Please be specific and list at least 20 services but feel free to list additional ones. 
+Each service should be specific offerings and not broad categories. 
+Also, include variations of services that might have different names but are commonly searched for by my target customers.
