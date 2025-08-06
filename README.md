@@ -5,3 +5,4 @@ ai-generate gbp services for [Niche] in [City]
 ai-ctr analysis [GSC Queries] and [GSC Pages]
 ai-copywrite [keyword]
 ai-webdesign landing page
+ai-generate GBP Landing Pages - Create Home page and GBP Location Landing Pages
