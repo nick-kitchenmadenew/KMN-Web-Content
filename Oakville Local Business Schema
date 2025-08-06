@@ -1,0 +1,36 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Kitchen Made New",
+  "description": "Professional cabinet refacing, refinishing and painting services in Oakville, Ontario",
+  "@id": "https://kitchenmadenew.com/oakville",
+  "url": "https://kitchenmadenew.com/oakville",
+  "telephone": "+12898153353",
+  "email": "info@kitchenmadenew.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Unit 11, 1155 North Service Road West",
+    "addressLocality": "Oakville",
+    "addressRegion": "ON",
+    "addressCountry": "CA"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "43.4643",
+    "longitude": "-79.6880"
+  },
+  "areaServed": [
+    "Oakville",
+    "Hamilton",
+    "Burlington", 
+    "Mississauga",
+    "Stoney Creek"
+  ],
+  "foundingDate": "2012",
+  "sameAs": [
+    "https://www.facebook.com/kitchenmadenew/",
+    "https://www.tiktok.com/@kitchenmadenew",
+    "https://www.pinterest.com/kitchenmadenewToronto",
+    "https://www.instagram.com/kitchenmadenew"
+  ]
+}
