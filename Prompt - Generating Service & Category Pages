@@ -149,6 +149,4 @@ Recommend the Top 3 Meta Descriptions and point out which one is the best and th
 Create a separate article and identify all H1 H2 H3 and etc and highlight internal linking opportunities.
 
 When I run the command ai-finalize, execute the following prompt:
-Save all finalized articles in Google Drive.
-Append to the end of the ai-stories document (Google Drive) outlining the names, local references and stories. This will serve as a reference as we write new pages not to repeat the names and stories again.
 If ai-stories document does not exisit, create one.
