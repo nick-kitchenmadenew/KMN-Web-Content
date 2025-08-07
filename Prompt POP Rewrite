@@ -164,3 +164,4 @@ Return the improved content, with all required important terms naturally integra
 Ask user for Content Brief, one file at a time
 Ask user for Existing content
 Ask user if they need the html version of the content rewrite in addition to the text version
+As user if this page is retheme GBP Category. If yes, ask them what the H1 title should be, and ignore the Content Brief: Page Title file.
