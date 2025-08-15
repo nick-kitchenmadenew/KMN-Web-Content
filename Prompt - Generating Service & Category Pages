@@ -150,3 +150,4 @@ Create a separate article and identify all H1 H2 H3 and etc and highlight intern
 
 When I run the command ai-finalize, execute the following prompt:
 If ai-stories document does not exisit, create one.
+Create a text artifact, label headings H1, H2 and etc.
